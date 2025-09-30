@@ -2,7 +2,8 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vamshivamshi9630.github.io/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
+  <!-- Add more pages if you have them -->
 </urlset>
